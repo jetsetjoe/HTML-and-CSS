@@ -1,0 +1,72 @@
+<script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
+<html>
+<main id="main">  
+  <h1 id="title"> Bob Hoover </h1>  
+  <p> The pilot's pilot </p>
+  <figure id="img-div"> 
+<img 
+id="image"
+src="<a data-flickr-embed="true"  href="https://www.flickr.com/photos/181962196@N02/48046576098/in/dateposted-public/" title="Bob Hoover"><img src="https://live.staticflickr.com/65535/48046576098_55fc250186_o.jpg" width="1080" height="845" alt="Bob Hoover flying the shrike"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<figcaption id="img-caption">
+Artist's drawing of Bob Hoover flying his famous Shrike Commander routine. 
+    </figcaption>
+  </figure>
+  <section id="tribute-info">
+    <h2 id="headline"> Here's a timeline of Bob Hoover's life and many accomplishments   </h2>
+  
+<ul>
+   <li>                  
+                    Born in Nashville, TN in 1922
+                     </li>        <li>           
+  Learned to fly at Nashville's Berry field and taught himself aerobatics
+                     </li>
+<li>
+       Joined the TN air national guard and was assigned to casablanca, testing airplanes.              
+                     </li>
+<li>
+   Flew 58 missions before being shot down and spent 16 months as a POW.                  
+                     </li>                     
+<li>
+   After the war, was in the Flight Evaluation Group at Wright Field, Ohio where he flew captured aircraft and the latest USAF aircraft.                  
+                     </li>                     
+                     
+<li>
+    Alternate pilot for the Bell X-1, Hoover flew the chase plane as close friend Chuck Yeager broke the sound barrier, October 14th, 1947.                 
+                     </li>    <li>
+  Experimental flight tested the Navy FJ-2 jet fighter and the USAF F-86 and F-100.                   
+                     </li>                  
+ <li>
+  Only person to serve two terms as president of the Society of Experimental Test Pilots.                   
+                     </li>   <li>
+   Captain of the 1966 U.S. Acrobatic Team at the international competition in Moscow.                  
+                     </li>                   
+ <li>
+  World renowned aerobatic pilot and his P-51 was a main attraction at the Reno Air Races.                  
+                     </li>      
+<li>
+  In 1985 established a coast-to-coast record flying a P-51 from Daytona Beach to Los Angeles in 5 hours and 20 minutes.                   
+                     </li>  
+                     
+<li> Died in 2016 at the age of 94
+                     </li>
+                     
+<p class="tab"> Bob Hoover is perhaps most famous for his airshow routines. Pictured above is Bob's famous shrike commander. His most notable routine involved taking this business aircraft through rolls, loops, and other aerobatic manuevres. For his grand finale, Bob would shut both engines down and execute a loop followed by an 8 point hesitation roll. Afterwards, he would land the aircraft one wheel at a time and use the remaining energy to roll the aircraft back to the parking area without restarting either engine! 
+Bob was also known for pouring himself a cup of tea using gravity while performing a 1G barrel roll.
+                     </p>                     
+                     
+                     
+<blockquote                    cite="https://airandspace.si.edu/newsroom/press-releases/robert-bob-hoover-and-hale-sts-121-shuttle-team-are-smithsonians-national"   
+                     >
+<p>
+"(Bob Hoover is) the greatest stick-and-rudder man who ever lived" </p>
+                                                                  <cite> --General Jimmy Doolittle </cite>
+                                               </blockquote>                                                                 
+                     
+<h3> Find out more about RA Bob Hoover and his incredible accomplishments in his                    
+<a 
+id="tribute-link" 
+href="https://en.wikipedia.org/wiki/Bob_Hoover"  
+                                               target="_blank">Wikipedia entry</a>                                                           </h3>                      </section>
+  </main>  
+</html> 
